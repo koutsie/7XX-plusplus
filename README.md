@@ -18,3 +18,10 @@ The errors:
 ## Extension failures
   - 791-9 - Adblock is on, ~~go fuck yourself~~ turn it off <3
   - 790-10 - Cannot load userstyle, go install Stylus instead.
+  - 789-11 - Sorry, our data collection api is down, please wait for a few hours and dont browse: we need your private shite...
+  - 788-12 - Sorry, the server in the adress: "freey0tub3downl0ad3r.totallylegit.site" cant be reached.
+  ## Internet Issues
+  - 787-13  - This wi-if hotspot only supports WAP, sorry i really wanna get pwnd.
+  - 786-14  - Please contact our support after logging in (I dont know how tho because the panel doesent exist).
+  
+ 
